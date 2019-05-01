@@ -5,6 +5,7 @@
  *
  */
 
+remove_action( 'genesis_entry_footer', 'genesis_post_meta' ); // removes tag and cat links
 remove_action( 'genesis_before_loop', 'genesis_do_posts_page_heading' );
 add_action( 'genesis_before_loop', 'rgc_blog_intro' );
 function rgc_blog_intro() {
