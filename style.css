@@ -673,34 +673,6 @@ th:first-child {
 	width: 1px;
 }
 
-
-
-
-
-.widget_search input[type="submit"] {
-	background-color: orange;
-border: none;
-box-shadow: none;
-color: #fff;
-cursor: pointer;
-padding: 16px 24px;
-padding: 1.6rem 2.4rem;
-text-transform: uppercase;
-margin-left: 5px;
-width: auto;
-}
-
-/* .nav-primary .search-form input[type="submit"]:hover {
-	background-color: red;
-}
-
-.nav-primary .search-form input[type="search"] {
-width: 180px;
-}
-
-*/
-
-
 /* Titles
 --------------------------------------------- */
 
@@ -1263,6 +1235,12 @@ img.alignright,
 
 .entry {
 	margin-bottom: 40px;
+}
+
+
+.entry-content p, .entry-content ol, .entry-content ul {
+	font-size: 22px;
+	line-height: 1.5;
 }
 
 .entry-content ol,
