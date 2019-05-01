@@ -679,14 +679,28 @@ th:first-child {
 .archive-description .entry-title,
 .archive-title,
 .author-box-title {
-	font-size: 20px;
+	font-size: 40px;
 	font-weight: 600;
 	margin-bottom: 10px;
+	text-transform:uppercase;
 }
+
+.archive-description {
+	background: #E6F3E4;
+	padding: 10px;
+	margin-bottom: 30px;
+}
+
+.archive-description p {
+margin-bottom: 10px;
+}
+
+
 
 .entry-title {
 	font-size: 30px;
 	margin-bottom: 10px;
+	font-weight: 700;
 }
 
 .entry-title a,
