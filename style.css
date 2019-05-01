@@ -986,14 +986,15 @@ img.alignright,
     color: #c9d4db;
 }
 
-
 /* Title Area
 --------------------------------------------- */
+.nav-primary .genesis-nav-menu a {
+	color: #c2d2e0;
+}
 
 .title-area {
 	float: left;
-	padding-bottom: 25px;
-	padding-top: 25px;
+	padding: 15px 0px 0px 0px;
 }
 
 .wp-custom-logo .title-area {
@@ -1017,8 +1018,9 @@ img.alignright,
 .site-title a,
 .site-title a:focus,
 .site-title a:hover {
-	color: #333;
+	color: #c9d4db;
 	text-decoration: none;
+	font-size: 36px;
 }
 
 .site-description,
