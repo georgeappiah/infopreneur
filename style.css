@@ -1,20 +1,20 @@
 /*
-Theme Name: Genesis Sample
-Theme URI: https://demo.studiopress.com/
-Description: This is the sample theme created for the Genesis Framework.
-Author: StudioPress
-Author URI: https://www.studiopress.com/
+Theme Name: Infopreneur
+Theme URI: https://www.georgeappiah.com/
+Description: This is a child theme for the Genesis Framework, originally created for my personal website GeorgeAppiah.com.
+Author: George Appiah
+Author URI: https://www.georgeappiah.com/
 
-Version: 2.9.2-dev
+Version: 0.1
 
 Tags: accessibility-ready, block-styles, custom-colors, custom-logo, custom-menu, editor-style, featured-images, footer-widgets, full-width-template, left-sidebar, one-column, right-sidebar, rtl-language-support, sticky-post, theme-options, threaded-comments, translation-ready, two-columns, wide-blocks
 
 Template: genesis
 
-License: GPL-2.0-or-later
+License: GPL-2.0
 License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
-Text Domain: genesis-sample
+Text Domain: infopreneur
 */
 
 
@@ -978,10 +978,14 @@ img.alignright,
 ---------------------------------------------------------------------------- */
 
 .site-header {
-	background-color: #fff;
+	border-color: #0679b5;
+    background-color: #044e75;
+    background: #333;    background: radial-gradient(ellipse at center,#066fa6 0%,#044e75 100%);
 	box-shadow: 0 0 20px rgba(0, 0, 0, 0.05);
 	padding: 0 30px;
+    color: #c9d4db;
 }
+
 
 /* Title Area
 --------------------------------------------- */
