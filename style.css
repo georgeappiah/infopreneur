@@ -701,9 +701,11 @@ th:first-child {
 }
 
 .widget-title {
-	font-size: 18px;
+	font-size: 24px;
 	font-weight: 600;
 	margin-bottom: 20px;
+	padding: 10px;
+	background: #E6F3E4;
 }
 
 /* WordPress
