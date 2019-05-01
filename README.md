@@ -1,1 +1,1 @@
-# WordPress Theme: Infopreneur (Genesis Child theme)
+# WordPress Theme: Infopreneur
